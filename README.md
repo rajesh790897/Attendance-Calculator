@@ -19,5 +19,7 @@ CSS for basic styling
 JavaScript for calculation logic
 # Example Screenshot
 ![image](https://github.com/user-attachments/assets/604e790d-765d-4ab1-b739-ef06a74ab52c)
+![Screenshot from 2024-10-29 17-03-16](https://github.com/user-attachments/assets/92c84a5d-af46-4e8a-bb56-c9053f817fb3)
+
 # Contributions
 Feel free to fork this repository, submit issues, or make pull requests if you'd like to add more features or improve functionality.
