@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/482551f5-f8db-407d-b78e-d49c20232bd6)# Attendance Calculator
+![image](https://github.com/user-attachments/assets/482551f5-f8db-407d-b78e-d49c20232bd6)
+# Attendance Calculator
 This project is a simple, web-based College Attendance Calculator built with HTML, CSS, and JavaScript. It allows students to easily calculate their current attendance percentage and determine if they are meeting the required attendance criteria. Additionally, it tells students how many more classes they need to attend or how many classes they can skip without falling below the required attendance threshold.
 # Features
 Select Required Attendance: Choose the minimum required attendance percentage (60%,65%,70%,75%, 80%, or 85%).
